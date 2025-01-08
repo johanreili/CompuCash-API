@@ -529,7 +529,7 @@
         </mxCell>
         <mxCell id="OX6Z1GExO-TKb89o3v1y-150" value="HOSTS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=#6c8ebf;spacingTop=3;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;" parent="OX6Z1GExO-TKb89o3v1y-130" vertex="1" connectable="0">
           <mxGeometry x="0.2682" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="76" as="offset" />
+            <mxPoint x="1" y="164" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OX6Z1GExO-TKb89o3v1y-131" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;spacingTop=3;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;endArrow=none;endFill=0;fillColor=#dae8fc;" parent="1" source="OX6Z1GExO-TKb89o3v1y-89" target="OX6Z1GExO-TKb89o3v1y-76" edge="1">
@@ -537,7 +537,7 @@
         </mxCell>
         <mxCell id="OX6Z1GExO-TKb89o3v1y-151" value="HOSTS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=#6c8ebf;spacingTop=3;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;" parent="OX6Z1GExO-TKb89o3v1y-131" vertex="1" connectable="0">
           <mxGeometry x="0.2547" y="-3" relative="1" as="geometry">
-            <mxPoint x="-2" y="25" as="offset" />
+            <mxPoint x="2" y="67" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OX6Z1GExO-TKb89o3v1y-132" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;spacingTop=3;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;endArrow=none;endFill=0;fillColor=#dae8fc;" parent="1" source="OX6Z1GExO-TKb89o3v1y-90" target="OX6Z1GExO-TKb89o3v1y-76" edge="1">
@@ -545,7 +545,7 @@
         </mxCell>
         <mxCell id="OX6Z1GExO-TKb89o3v1y-152" value="HOSTS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=#6c8ebf;spacingTop=3;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;" parent="OX6Z1GExO-TKb89o3v1y-132" vertex="1" connectable="0">
           <mxGeometry x="0.4455" y="-3" relative="1" as="geometry">
-            <mxPoint x="3" y="46" as="offset" />
+            <mxPoint x="4" y="191" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OX6Z1GExO-TKb89o3v1y-139" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;spacingTop=3;fontFamily=Times New Roman;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;endArrow=none;endFill=0;fillColor=#dae8fc;" parent="1" source="OX6Z1GExO-TKb89o3v1y-61" target="OX6Z1GExO-TKb89o3v1y-76" edge="1">
@@ -559,7 +559,7 @@
         </mxCell>
         <mxCell id="OX6Z1GExO-TKb89o3v1y-155" value="HOSTS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;rounded=1;strokeColor=#6c8ebf;spacingTop=3;fontFamily=Times New Roman;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;" parent="OX6Z1GExO-TKb89o3v1y-139" vertex="1" connectable="0">
           <mxGeometry x="-0.1108" relative="1" as="geometry">
-            <mxPoint y="4" as="offset" />
+            <mxPoint y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OX6Z1GExO-TKb89o3v1y-76" value="&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;cc5api.ektaco.ee&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;On-Premises host&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;fontFamily=Times New Roman;" parent="1" vertex="1">
